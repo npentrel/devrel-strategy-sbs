@@ -9,12 +9,12 @@ This guide features information and multiple exercises designed to help you defi
 ### The summary
 In this guide I will take you through multiple steps. The first step will be the creation of an **analysis of your current situation**. From there we will discuss what your **overarching goals** and themes for the upcoming quarter(s) will be. Finally we will guide you through **setting SMART goals**.
 
-##### Step 0: Know yourselves 👩🏿👨🏼🧔🏼👱🏻‍♀️🧑🏼👩🏽👨🏾 [60 min][_optional_]
+##### Step 0: Know yourselves 👩🏿👨🏼🧔🏼👱🏻‍♀️🧑🏼👩🏽👨🏾 [60 min] [_optional_]
 _While this is optional it is strongly recommended, especially if you have new people on the team!_
 
 We will start by getting to know each other. We will create instruction manuals for each team member outlining preferred communication platforms, languages, project types, etc. This aims to help get to know how to effectively work with your team and to give you a better idea what work your team enjoys doing.
 
-##### Step 1: Know your team team & initiatives 🙌
+##### Step 1: Know your team team & initiatives 🙌 [2.5h - 5.5h]
 In the previous step we got to know team members individually. Now, we will focus on the team as a whole. As part of this we will review _all_ current initiatives. These current initiatives will be documented to ensure a common understanding of current initiatives. We will also do a retrospective for each initiative and for the team's work as a whole.
 
 ##### Step 2: Know your products 🧐
