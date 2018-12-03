@@ -1,0 +1,6 @@
+- [ ] read Mike's template
+- [ ] go through links
+- [ ] incorporate 4 pillars of devrel
+- [ ] go through materials Joe sent me.
+- [ ] read Mary's book
+- [ ] split into actionable repo and a train the trainer bit (containing prep bits etc)
