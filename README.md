@@ -7,6 +7,7 @@ You have stumbled upon the guide to creating a Strategy for your (team's) develo
 This guide features information and multiple exercises designed to help you define your (team's) strategy. You may find that some exercises fit better than others and that you need to add/change content for your team's needs.
 
 ### The summary
+A strategy is a framework for understanding what the right thing to do is and a tool for knowing roughly how you are going to achieve your goals.
 In this guide I will take you through multiple steps. The first step will be the creation of an **analysis of your current situation**. From there we will discuss what your **overarching goals** and themes for the upcoming quarter(s) will be. Finally we will guide you through **setting SMART goals**.
 
 ##### Step 0: Know yourselves 👩🏿👨🏼🧔🏼👱🏻‍♀️🧑🏼👩🏽👨🏾 [60 min] [_optional_]
