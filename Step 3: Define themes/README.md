@@ -62,6 +62,19 @@ The last stage is **product**, where developers contribute back to your product 
 
 If you locate any significant drop offs, these are areas that you can work on improving. Note that some drop off is normal and you should not expect every user to advance through to the referral or product stages.
 
+(...)
+
+There are at least 4 general overarching themes that team's tend to go for. Here are examples of people that do well in those:
+
+| Theme | Company |
+|-|-|
+| Awareness | Glitch | Virtually uniquitous |
+| Engagement | Outsystems | community members|  
+| Conversion | redislabs | |
+| Perception Change | Microsoft | The showed the world their new face, instead of just proclaiming it. The devs are now in charge! See: visual studio code being on all platforms etc. |
+
+All of these campaigns are examples of very well done devrel work. They are also examples of very focused work towards a goal. No company does the best at everything or even aims to do that. 
+
 ##### 1. Where in this funnel should our team be? [20 min]
 
 Here the organization overview chart from [Step 2](../Step\ 2:\ Know\ your\ team\ \&\ initiatives) will come in handy. You should not focus on the entire funnel. If you have many teams that are in this space, ensure that any overlap makes sense. This may be different for the different products. It may stretch over multiple parts of the funnel.

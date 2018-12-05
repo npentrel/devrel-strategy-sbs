@@ -2,7 +2,6 @@
 
 Developer Relations teams generally have limited resources, be that time, money, people, or anything else. Therefore it makes sense to ensure that you spend your limited resources wisely. Having a good understanding of your company and your audience will help you maximize your impact and ensure that your efforts stay focused. 
 
-
 ##### 1. The org [30 min]
 Please draw your organization overview on a whiteboard. It does not have to be the entire org but it should include all teams that interface with you or perform developer relations or developer advocacy functions. With each team, please note down their target area(s).
 
