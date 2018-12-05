@@ -4,10 +4,4 @@ Please draw your organization overview on a whiteboard. It does not have to be t
 **Take a photo of the finished org chart! If possible, leave this chart up for the rest of the training.**
 
 ##### 2. Products [1h * number of products]
-
-
-"What developer relations should mean to a company really depends on what the company's goals are." - Phil Leggeter
-
-What is our devrel mission statement?
-
-https://www.leggetter.co.uk/2016/02/03/defining-developer-relations.html
+Being aware of your product(s) on it's own is a start. Generally your product(s) will not exist in a vacuum though. Your will deal with direct and indirect competition. On top of that your company will hold a certain position in the market and there will be a certain climate that you function well in. Being aware of these corner stones allows you to more clearly see segments of the market that you should be targeting. In this exercise you will work as groups on all the products you have and fill in the [positioning-template.md](positioning-template.md) for each of them. Once you have finished the segmentation exercise, discuss with your team. The outcome of this exercise should be a clear definition of your target audience and how you can best address them. 

@@ -2,3 +2,4 @@
 - [ ] go through links
 - [ ] go through entire devrel training
 - [ ] read Mary's book
+- [ ] incorporate 4 pillars of devrel

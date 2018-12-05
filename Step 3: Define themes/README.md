@@ -56,7 +56,7 @@ Once your developers are on your platform and have made their first API calls, y
 
 Revenue
 
-One of the last stages in the funnel is the **referral** stage. This is where you want to ensure that staying in your community is worthwhile for users. 
+One of the last stages in the funnel is the **referral** stage. This is where you want to ensure that staying in your community is worthwhile for users.
 
 The last stage is **product**, where developers contribute back to your product development. In this stage there is general quite a bit of personal interaction and community work. Acknowledging people for their contributions can go a long way.
 
@@ -71,3 +71,11 @@ Bonus: If you have metrics for different parts of the funnel, this will help you
 ##### 2. Articulate concrete themes [25 min]
 
 Which part of the funnel will you work on for which product? Will you be increasing awareness for your product? Should you be working on increasing retention? Themes that work for one company will not work for other companies so make sure to base your choices on your situation. Do not choose more than 2 overall themes to avoid stretching yourselves too thin.
+
+##### 2. Articulate mission statement [25 min]
+
+"What developer relations should mean to a company really depends on what the company's goals are." - Phil Leggeter
+
+What is our devrel mission statement?
+
+https://www.leggetter.co.uk/2016/02/03/defining-developer-relations.html
