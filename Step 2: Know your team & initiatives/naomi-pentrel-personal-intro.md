@@ -2,7 +2,7 @@
 
 <img src="https://user-images.githubusercontent.com/5212232/47457283-89600f00-d78b-11e8-8fc2-487d36564805.png" width="200"/>
 
-**Location:** San Francisco, USA (moving to Amsterdam, Netherlands in Feb 2019)
+**Location:** Amsterdam, Netherlands
 
 **Conference bio:**
 Naomi Pentrel is a Developer Advocate at MongoDB and a full-stack pythonista with a focus on improving developer workflows. When not at work or a hackathon, Naomi is an avid emoji user and a slayer of houseplants.
@@ -28,7 +28,7 @@ Before her current role, Naomi worked as a Software Engineer at companies such a
 - Design
 
 **Family:**
-- My partner is Joe (he works for GitHub)
+- My partner is Joe
 - My sister, her partner, and my two lovely niblings all live in Germany
 
 **Biggest dream:**

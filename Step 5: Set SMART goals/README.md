@@ -8,7 +8,7 @@
 
 A strategy is a framework for understanding what the right thing to do is and for roughly knowing how to achieve goals. In Step 1 & 2, we established the current situation and in step 3, we had a look at the company goals and set the destination for the coming months. Step 4 had us set out a strategy for events. The next step is to set specific goals which is what we will do for each initiative in this step. Let us look at SMART goals and vanity metrics before we dive in.
 
-SMART goals are a commonly used tool to plan and achieve goals [[1]](ttps://www.mindtools.com/pages/article/smart-goals.htm). SMART goals are defined to be: Specific, Measurable, Achievable, Relevant, Timely.
+SMART goals are a commonly used tool to plan and achieve goals [[1]](ttps://www.mindtools.com/pages/article/smart-goals.htm). SMART goals are defined to be: **S**pecific,** M**easurable, **A**chievable, **R**elevant, and **T**imely.
 
 WARNING: The caveat to setting SMART goals is being aware of vanity metrics. These can be collected but they should _not_ form the basis of your strategy. Examples of this can be measuring sign ups or measuring visitors on your website. If your team is measured on sign ups this may lead to the team accidentally focusing on activities that will make users sign up (maybe for some bonus) without noticing that they then never actually use the account. The metrics will look great but if your underlying goal is to increase usage then focusing on more long-term metrics like retention of users over time will give a more realistic impression of whether your efforts are working.
 
@@ -35,6 +35,7 @@ This is the last step in the in-person training. Summarize learnings and set a t
 ## Notes
 
 - During the conclusion or after the training, collect feedback. This will help you make changes for next year. If you are willing to share this feedback, please [reach out to me](https://naomi.codes/).
+- You can choose to set SMART goals after the planning event. Thus initiative owners can think about them in more detail. You should however aim to inform the team of these goals/discuss them with the team.
 
 ## Additional resources
 

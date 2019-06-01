@@ -1,14 +1,12 @@
 # Step 4: [70 min] Define Event Strategy 💃
 
-[Note that this section is still being developed]
-
 ## Outcomes
 
 - A strategy for events that gives criteria to decide which events to attend/sponsor.
 
 ## Introduction
 
-What sets events apart? What's the best ways to engage with events? To know what sort of events to target it is useful to look at metrics around the AAARRRP funnel (if available). If the metrics indicate a significant drop off then these are the areas you will want to focus on.
+What sets events apart? What are the best ways to engage with events? To know what sort of events to target it is useful to look at metrics around the AAARRRP funnel (if available). If the metrics indicate a significant drop off then these are the areas you will want to focus on.
 
 Within the AAARRRP funnel events can generally cover awareness, retention, and product. They do not and should not be used to target revenue increases. People tend to dislike being sold to at events, especially when they are not the primary decision makers.
 
@@ -29,10 +27,10 @@ If you are in the events space to obtain feedback then you will be able to obtai
 
 ### 1. Which events should we be going to? [30 min]
 
-Looking at the segmentation analysis you completed in step 2 will give you the first hint at what type of events you should be attending.
+Looking at the segmentation analysis you completed in step 1 will give you the first hint at what type of events you should be attending.
 
 Events are set apart by the following factors
-  - **Event Impact** - will this event influence our metrics? How many people an we send? How many people can we reach?
+  - **Event Impact** - will this event influence our metrics? How many people can we send? How many people can we reach?
   - **Attendee Potential** - what's the target audience out of the entire population of attendees?
   - **Attendee Experience** - How experienced are the attendees?
   - **Attendee Access** - How much access do you have to attendees?
@@ -132,7 +130,7 @@ For this exercise, list out constraints that affect which events you can and sho
 
 ### 3. Generalizing your Event Strategy [30 min]
 
-The three main factors that determine your event strategy are Event factors, people factors, and segmentation.
+The three main factors that determine your event strategy are event factors, people factors, and segmentation.
 
 For the first part of this exercise:
 1. Choose 2 previous events and add 3 random other ones (e.g. Droidcon London, Pennapps, and the WaffleJS meetup in SF).

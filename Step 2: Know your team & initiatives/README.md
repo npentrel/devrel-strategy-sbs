@@ -45,7 +45,7 @@ Chances are there are many initiatives/projects that are going on in your team. 
 
 3. Take each item on the initiative list and create an initiative overview for it as a team. A template for this can be found in [initiative-template.md](initiative-template.md). If your team is big you can split into subgroups and draft overviews in parallel. Ensure that everyone has a chance to read and comment on each overview. The goal is to achieve a common ground for each initiative.
 
-### 4. Initiative retro [15min * number of initiatives]
+### 4. Initiative retro 🧢 [15min * number of initiatives]
 
 Now that we have an overview of all initiatives, discuss them as a team one by one. Questions to keep in mind are:
 
@@ -57,9 +57,13 @@ Now that we have an overview of all initiatives, discuss them as a team one by o
 - Are there any road blocks?
 - ...
 
-Gather all feedback in the respective team initiative documents in the _notes_ section.
+Gather all feedback in the respective team initiative documents in the _notes_ section. To structure the retro, you may find it useful to adopt (Edward De Bono's Six Thinking Hats](https://en.wikipedia.org/wiki/Six_Thinking_Hats] approach.
 
-### 5. Team retro [60 min]
+### 5. New ideas [1h]
+
+It is likely that during this process the team has come up with many new ides and hopefully those were noted down in a `new ideas` section. Now is the time to speak through those.
+
+### 6. Team retro [60 min]
 
 After gathering feedback about each initiative, you may find it useful to also talk about other topics (team communication, processes, etc). Note that this should _not_ be things about the initiatives. To this end, pass out post-its and ask team members to note down things that:
 - they like/are grateful for
@@ -69,6 +73,8 @@ After gathering feedback about each initiative, you may find it useful to also t
 Once you have gathered post-its for a few minutes, put these on a wall and combine topics if applicable. Now ask your team to get up and mark the three topics they'd like to discuss with a dot.
 
 Pick the topics with the most votes and discuss them as a team. Gather feedback and note down action items. You may not have time to discuss all issues but you should be able to discuss the ones your team deems most important.
+
+_You may also want to do this all the way in the end of the planning to see whether there are other things the team needs to talk about._
 
 ## Notes
 

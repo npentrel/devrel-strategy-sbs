@@ -6,7 +6,7 @@
 _List each person's personal intro. Optionally include everyone's user manuals (- these can also live elsewhere however)._
 
 ### Our place in the organization
-_Include the mindmap you created in step 2._
+_Include the mindmap you created in step 1._
 
 ## What we do
 

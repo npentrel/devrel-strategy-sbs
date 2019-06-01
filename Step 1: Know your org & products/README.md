@@ -3,7 +3,7 @@
 ## Outcomes
 
 - An analysis of how the team fits into the organization along with a general idea of the division of responsibilities.
-- A written analysis of where our products are at, how your competitors compare, what your target audience looks like etc.
+- A written analysis of where your products are at, how your competitors compare, what your target audience looks like etc.
 
 ## Introduction
 
