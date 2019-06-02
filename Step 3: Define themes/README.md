@@ -4,7 +4,7 @@
 
 - A common understanding/reminder of the company goals.
 - An understanding of the general activities that you should and should not be pursuing.
-- A common understanding of our team's purpose and values.
+- A common understanding of your team's purpose and values.
 - Alignment between current initiatives and themes.
 - A list of current initiatives that clearly identifies the themes that they accomplish.
 
@@ -27,7 +27,7 @@ There are many reasons to engage in developer relations. Some of these are liste
 - encourage peer support & recommendation
 - value customers even if the person's company cannot pay for your product right now
 
-These reasons all align with some part of the DevRel funnel. This DevRel funnel is closely related to Dave McClure's AARRR metrics which has been extended by [Phil Leggetter](https://www.leggetter.co.uk/2016/02/03/defining-developer-relations.html) to work better for our purposes. [[1]](https://www.leggetter.co.uk/2016/02/03/defining-developer-relations.html) [[2]](https://hoopy.io/).
+These reasons all align with some part of the DevRel funnel. This DevRel funnel is closely related to Dave McClure's AARRR metrics which has been extended by [Phil Leggetter](https://www.leggetter.co.uk/2016/02/03/defining-developer-relations.html) to work better for your purposes. [[1]](https://www.leggetter.co.uk/2016/02/03/defining-developer-relations.html) [[2]](https://hoopy.io/).
 
 ```
 \                /- Awareness (of the platform and what it does)

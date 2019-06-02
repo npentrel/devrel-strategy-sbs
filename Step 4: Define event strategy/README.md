@@ -1,4 +1,4 @@
-# Step 4: [70 min] Define Event Strategy 💃
+# Step 4: [70 min] Define event strategy 💃
 
 ## Outcomes
 
@@ -98,7 +98,7 @@ To help you, see below for a summary of the features of different tech events.
   - often attached to events or accelerators
   - attended by businesses and investors
 
-### 2. Events & Your Team [20 min]
+### 2. Events & your team [20 min]
 Out of the above you should have gained an idea for what type of events you should/shouldn't attend in general. In this exercise we will determine how cost and your team factor into which events you should/shouldn't attend.
 
 Let's look at the costs of attending a local 100 person conference and the cost of attending a remote conference:
@@ -128,7 +128,7 @@ Overall, when your team members travel, they will generally be at a visitor disa
 
 For this exercise, list out constraints that affect which events you can and should cover.
 
-### 3. Generalizing your Event Strategy [30 min]
+### 3. Generalizing your event strategy [30 min]
 
 The three main factors that determine your event strategy are event factors, people factors, and segmentation.
 
@@ -172,7 +172,7 @@ Ensuring event success:
 - follow up with external people you meet
 - follow up internally by showing off event info
 
-### Diversity at Events
+### Diversity at events
 
 It is _important_ that events you host, attend, sponsor, and speak at are diverse. The reasons for this span obvious moral reasons but also the fact that you do not want to be associated with events that spark outrage like [this one](https://www.nbcnews.com/tech/tech-news/flagship-tech-conference-ces-faces-backlash-all-male-keynote-speaker-n827191) or [this one](https://twitter.com/allmalepanels/status/966399599320551424).
 
