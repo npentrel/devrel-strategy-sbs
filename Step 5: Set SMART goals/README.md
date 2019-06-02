@@ -1,4 +1,4 @@
-# Step 4: [15 min * number of initiatives] Set SMART goals 🏃‍♀️
+# Step 5: [15 min * number of initiatives] Set SMART goals 🏃‍♀️
 
 ## Outcomes
 
