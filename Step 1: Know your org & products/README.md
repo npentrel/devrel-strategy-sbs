@@ -1,4 +1,4 @@
-# Step 2: [30 min + 60 min * number of products] Know your org & products 🧐
+# Step 1: [30 min + 60 min * number of products] Know your org & products 🧐
 
 ## Outcomes
 

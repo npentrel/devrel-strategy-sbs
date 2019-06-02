@@ -1,4 +1,4 @@
-# Step 1: [120 min + 45 min * number of initiatives] Know your team & initiatives 🙌
+# Step 2: [120 min + 45 min * number of initiatives] Know your team & initiatives 🙌
 
 ## Outcomes
 

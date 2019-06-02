@@ -19,29 +19,29 @@ You will get a concise set of documents that document your team's focus areas, s
 
 ## Structure
 
-This guide is set up for the person leading the training. Within each step you will find a readme that contains outcomes, an introduction, preparation todos, the tasks, as well as some helpful notes. Below you will find a brief overview of each section. You can also find helpful notes on the schedule, ideas for energizers etc. in the [Schedule, Energizers, etc. folder](/Schedule, Engergizers,\ etc.).
+This guide is set up for the person leading the training. Within each step you will find a readme that contains outcomes, an introduction, preparation todos, the tasks, as well as some helpful notes. Below you will find a brief overview of each section. You can also find helpful notes on the schedule, ideas for energizers etc. in the [Schedule, Energizers, etc. folder](/Schedule%2C%20Energizers%2C%20etc.).
 
-##### [Step 0: Communicate well 🎤 [30 min] [_optional_]](/Step\ 0:\ Communicate\ well)
+##### [Step 0: Communicate well 🎤 [30 min] [_optional_]](/Step%200:%20Communicate%20well)
 _While this is optional it is strongly recommended, especially if you have new people on the team!_
 
 This exercise focuses on the team getting to know one another and outlining how they like to be communicated with. Each team member will create an instruction manual for themselves outlining preferred communication platforms, languages, project types, etc. This aims to help the team effectively work with one another and to give you a better idea what work your team members enjoy doing.
 
-##### [Step 1: Know your org & products 🧐 [30 min + 60 min * number of products]](/Step\ 1:\ Know\ your\ org\ \&\ products)
+##### [Step 1: Know your org & products 🧐 [30 min + 60 min * number of products]](/Step%201:%20Know%20your%20org%20&%20products)
 To start, your team will examine the org and teams around you, including their target areas. This will allow you to see and avoid overlaps in the following steps. Next, you will get to know your products more intimately. You will perform segmentation exercises for each product. Finally, you will document the findings to ensure a common understanding of each products target audience. You may find during this step that you start having ideas around new initiatives for certain products - write these down!
 
-##### [Step 2: Know your team & initiatives 🙌 [180 min + 45 min * number of initiatives]](/Step\ 2:\ Know\ your\ team\ \&\ initiatives)
+##### [Step 2: Know your team & initiatives 🙌 [180 min + 45 min * number of initiatives]](/Step%202:%20Know%20your%20team%20&%20initiatives)
 In the previous step you got to know your org and products. Now, you will focus on the team. As part of this you will review _all_ current initiatives. These current initiatives will be documented to ensure a common understanding of current initiatives. You will also do a retrospective for each initiative and for the team's work as a whole.
 
-##### [Step 3: Define themes 🧞‍♀️ [160 min]](/Step\ 3:\ Define\ themes)
+##### [Step 3: Define themes 🧞‍♀️ [160 min]](/Step%203:%20Define%20themes)
 You may have many current initiatives or many ideas for new initiatives. In this section you will define overarching goals or themes. These will in the next steps allow you to set more concrete goals. Best of all, this will give you a framework to decide whether you should spend time on X or not!
 
-##### [Step 4: Define Event Strategy 💃 [80 min]](/Step\ 4:\ Define\ Event\ Strategy)
+##### [Step 4: Define Event Strategy 💃 [80 min]](/Step%204:%20Define%20Event%20Strategy)
 If your team does a lot of event work, it is advisable to create an event strategy. In this section you will analyze some events across different criteria and then work towards identifying the selection criteria that make sense for your team.
 
-##### [Step 5: Set SMART goals 🏃‍♀️ [15 min * number of initiatives]](/Step\ 5:\ Set\ SMART\ goals)
+##### [Step 5: Set SMART goals 🏃‍♀️ [15 min * number of initiatives]](/Step%205:%20Set%20SMART%20goals)
 Specific, Measurable, Achievable, Relevant, Timely. Those are the keywords that you need to keep in mind for this section. These SMART goals will describe what your team is planning to do in the coming quarter(s). Each project/initiative the team is undertaking should have some goals attached to it. You will also consider metrics in this section.
 
-##### [Step 6: Documentation 📜 [2h]](/Step\ 6:\ Documentation)
+##### [Step 6: Documentation 📜 [2h]](/Step%206:%20Documentation)
 Pull everything together. This is the last task for the person leading this workshop. In this, you will create an overall reference document/folder where your team's strategy is clearly defined. This will be invaluable throughout the next quarter's in keeping you goal-oriented. It will also be a good resource to have at hand when doing your yearly review!
 
 ### Preparation 👈
