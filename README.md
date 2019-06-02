@@ -35,7 +35,7 @@ In the previous step you got to know your org and products. Now, you will focus 
 ##### [Step 3: Define themes 🧞‍♀️ [160 min]](/Step%203:%20Define%20themes)
 You may have many current initiatives or many ideas for new initiatives. In this section you will define overarching goals or themes. These will in the next steps allow you to set more concrete goals. Best of all, this will give you a framework to decide whether you should spend time on X or not!
 
-##### [Step 4: Define Event Strategy 💃 [80 min]](/Step%204:%20Define%20Event%20Strategy)
+##### [Step 4: Define an event strategy 💃 [80 min]](/Step%204:%20Define%20an%20event%20strategy)
 If your team does a lot of event work, it is advisable to create an event strategy. In this section you will analyze some events across different criteria and then work towards identifying the selection criteria that make sense for your team.
 
 ##### [Step 5: Set SMART goals 🏃‍♀️ [15 min * number of initiatives]](/Step%205:%20Set%20SMART%20goals)
