@@ -36,7 +36,7 @@ _Instructions are in cursive. Fill in each section._
   - whom do we need to keep an eye on?
 
 - Legacy:
-  - past relationships, products, acts that could be a problem or a liabilty?
+  - past relationships, products, acts that could be a problem or a liability?
 
 ## Climate
 _You cannot target all developers. There are (probably many) more than 80 million developers. You need to be aware of the factors that drive people to and from your product._
