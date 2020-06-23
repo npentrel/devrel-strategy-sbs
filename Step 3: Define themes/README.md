@@ -53,7 +53,6 @@ To help with the understanding of where typical initiatives fall Phil provides a
 | Event/Meetup Sponsorship | x | x | | | | | |  
 | Talks, Meetups, Conferences | x | x | | | | | |  
 | Support, Zendesk, StackOverflow, Forums| | | x | x | | | x |  
-| Talks, Meetups, Conferences | x | x | | | | | | |
 | Pre-sales technical discussion| | x | x | | | | | |
 | Alpha/Beta Programs | | | | x | | | | x |
 | Office Hours | | | x | x | | | | |
