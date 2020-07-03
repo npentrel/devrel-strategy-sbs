@@ -114,13 +114,17 @@ Which part of the funnel will you work on for which product? Will you be increas
 
 What is our DevRel mission statement?
 
-### 5. Alignment [60 min]
+### 5. Alignment [30 min]
 
 Go through the list of initiatives and discuss whether or not the initiative fits with your mission and your themes for the year. Add the theme and how the initiative aligns to it to the document.
 
 If an initiative does not have owners assigned to it or has other missing parts, this is a good time to fill in the gaps.
 
 You may find that this process shrinks your list of current initiatives which will make you more focused. For these _dormant initiatives_, keep the documentation around but mark it clearly as dormant. Make sure to note down any actions that need to be taken to leave the initiative in a good dormant place (e.g. informing stakeholders).
+
+### 6. Prioritization [30 min]
+
+Too much on your plate? Decide how to priotitize with the [Allthethings Prioritization Matrix](https://www.atlassian.com/team-playbook/plays/prioritization-matrix).
 
 ## Notes
 - Working through these exercises beforehand will help you in the actual planning meeting. Ensure, however, that you let the team take the lead as they may have other ideas.
