@@ -5,18 +5,15 @@
 **Location:** Amsterdam, Netherlands
 
 **Conference bio:**
-Naomi Pentrel is a Developer Advocate at MongoDB and a full-stack pythonista with a focus on improving developer workflows. When not at work or a hackathon, Naomi is an avid emoji user and a slayer of houseplants.
+Naomi Pentrel is Developer content professional, occasional blogger, crocheter, and hacker with an affinity for Python and some web dev. Before her current role, Naomi worked as a Software Engineer at companies such as Mongodb, Google, Microsoft, and Bloomberg. Throughout her career she has worked on infrastructure automation, microservice architectures, and widely used applications such as Google Chrome and Skype. She also used to organize a lot of hackathons.
 
-Before her current role, Naomi worked as a Software Engineer at companies such as Google, Microsoft, and Bloomberg. Throughout her career she has worked on infrastructure automation, microservice architectures, and widely used applications such as Google Chrome and Skype. You may have seen her at hackathons she organizes and attends across the world.
 
-**What I work on at MongoDB:**
-- blogposts & talks
-- strategy
-- hackathons
+**What I work on at Viam:**
+- docs, blogposts, tutorials, and other developer content
 
-**Countries lived:** Germany, UK, USA
+**Countries lived:** Germany, UK, USA, Netherlands
 
-**Human languages:** German, English, and a bit of Spanish, French, and Latin
+**Human languages:** German, English, Dutch, and a bit of Spanish, French, and Latin
 
 **Programming languages:** Python 🐍, some JavaScript, C++, Java
 
@@ -29,6 +26,7 @@ Before her current role, Naomi worked as a Software Engineer at companies such a
 
 **Family:**
 - My partner is Joe
+- My dog is Ernie - a small rescue toy poodle (possibly a poochon)
 - My sister, her partner, and my two lovely niblings all live in Germany
 
 **Biggest dream:**
